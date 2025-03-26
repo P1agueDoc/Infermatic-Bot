@@ -1,10 +1,11 @@
 # Infermatic-Bot
-My try at making llm bot
+My attempt at making an LLM-based bot.
 
 # how to use
 
-* open code and fill telegram api and llm api key
-* in cmd: python -m venv venv
-* in cmd venv\scripts\activate
-* in cmd write pip install -r requirements.txt
-* in cmd: python ff.py
+* open .py and fill telegram api key and llm api key
+* open cmd
+* cmd: python -m venv venv
+* cmd venv\scripts\activate
+* cmd write pip install -r requirements.txt
+* cmd: python ff.py
